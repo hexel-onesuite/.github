@@ -1,4 +1,4 @@
-# OneSuite
+# Hexel OneSuite
 
 **Revolutionizing Productivity with Autonomous AI**
 
